@@ -10,7 +10,7 @@ public class Main {
         for (int i = 0; i < n; i++) {
             sum += i*i;
         }
-        System.out.println("Summe:" + sum);
+        System.out.println("Summe: " + sum);
     }
 
     public static void main(String[] args) {
