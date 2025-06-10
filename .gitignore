@@ -1,0 +1,33 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Build output
+/out/
+/target/
+
+# Logs
+*.log
+
+# OS-spezifisch
+.DS_Store
+Thumbs.db
+
+# Maven
+log/
+dependency-reduced-pom.xml
+release.properties
+
+# Sonar / Coverage / Reports
+.sonar/
+jacoco.exec
+coverage-report/
+
+# Optional: VSCode & andere Editoren
+.vscode/
+*.swp
+
+# Optional: temporäre Dateien
+*.class
+*.tmp
+*.bak
